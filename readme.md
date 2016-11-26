@@ -12,13 +12,15 @@ Using yarn
 
     yarn add react-native-simple-side-menu
 
+I would recommend linking the native animation library which is baked into react-native
+
 ## Usage example ##
 
 **[EXAMPLE GOES HERE]**
 
 ##Component props##
 |	Name	|	Type	|	Required 	|	Description	|
-|---|---|---|
+|---|---|---|---|
 |	width	|	Number	|	Yes	|	The width of the side menu	|
 |	color	|	String	|	Yes |	Side menu background color	|
 |	menuContent	|	React Component	|	Yes	| Content which will be rendered in the side menu |
