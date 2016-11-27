@@ -1,6 +1,7 @@
 **A simple side menu for React Native**
 ---------------------------------------
-----------
+A very simple side menu for react-native, at it's core is the modal view so it can be placed within any component and it will work like a charm.
+
 **[PREVIEW GIF GOES HERE]**
 
 ## Installation ##
@@ -12,7 +13,7 @@ Using yarn
 
     yarn add react-native-simple-side-menu
 
-I would recommend linking the native animation library which is baked into react-native
+I would recommend linking the native animation library which is baked into react-native for faster animations
 
 ## Usage example ##
 
